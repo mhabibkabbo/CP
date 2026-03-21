@@ -8,7 +8,7 @@ int main(){
     cin.tie(0);
 
     // If the stone is at the i-th pos
-    // it can go either in (i+1) or (i+2)th pos
+    // it can go either in (i+1), (i+2)... (i+k)th pos
     // we have to minimize the cost
 
 
